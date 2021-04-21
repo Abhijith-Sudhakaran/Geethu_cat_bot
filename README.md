@@ -5,7 +5,9 @@ A Modified Telegram Group managing 5th Gen bot
 You can fork my Repo. Don't steal my repo😁.
 
 #Deploy
-[![DEPLOY](https;//www.herokucdn.com/deploy/button.svy)(https://heroku.com/deploy?template=https://github.com/jayantkageri/GroupManager)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SmokerCat/Geethu_cat_bot)
+
 
 #Support
 https://t.me/DARK_TELEGRAMER 
